@@ -4,18 +4,22 @@
 }
 
 body{
-    background-color:brown;
+    background-color:rgb(42, 48, 165);
     width: 100%;
     height: 100vh;
     display: flex ;
     align-items: center;
     justify-content: center;
+
 }
 
 
 h1{
     font-family: 'Josefin Sans', sans-serif;
     font-size: 40px;
+
+    color: darkorange;
+    background-color: lime;
 }
 
 @media(max-width: 600px){
